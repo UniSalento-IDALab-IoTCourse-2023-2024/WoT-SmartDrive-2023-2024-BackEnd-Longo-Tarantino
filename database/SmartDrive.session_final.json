@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "669a3d8c4b830093c081df54"
+  },
+  "name": {
+    "$date": "2024-07-19T12:18:52.235Z"
+  },
+  "longitude": 18.0715928,
+  "latitude": 40.250437,
+  "user_id": "669a3484849155b60fa0b492",
+  "status": 2,
+  "style_average": 2,
+  "created_at": {
+    "$date": "2024-07-19T12:18:52.235Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-19T12:22:41.527Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "669a3ea04b830093c081e039"
+  },
+  "name": {
+    "$date": "2024-07-19T12:23:28.686Z"
+  },
+  "longitude": 18.0605845,
+  "latitude": 40.2690145,
+  "user_id": "669a3484849155b60fa0b492",
+  "status": 2,
+  "style_average": 1,
+  "created_at": {
+    "$date": "2024-07-19T12:23:28.686Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-19T12:33:58.857Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "669a3f624b830093c081e0f9"
+  },
+  "name": {
+    "$date": "2024-07-19T12:26:42.108Z"
+  },
+  "longitude": 18.0617427,
+  "latitude": 40.2692207,
+  "user_id": "669a3484849155b60fa0b492",
+  "status": 2,
+  "style_average": 2,
+  "created_at": {
+    "$date": "2024-07-19T12:26:42.109Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-19T15:34:14.789Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "669a428f21ec50702c54fc09"
+  },
+  "name": {
+    "$date": "2024-07-19T12:40:15.937Z"
+  },
+  "longitude": 18.0611299,
+  "latitude": 40.2620144,
+  "user_id": "669a356a849155b60fa0b494",
+  "status": 2,
+  "style_average": 1,
+  "created_at": {
+    "$date": "2024-07-19T12:40:15.937Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-19T12:54:26.410Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "669a433321ec50702c54fcb1"
+  },
+  "name": {
+    "$date": "2024-07-19T12:42:59.170Z"
+  },
+  "longitude": 18.0530972,
+  "latitude": 40.2571097,
+  "user_id": "669a356a849155b60fa0b494",
+  "status": 2,
+  "style_average": 2,
+  "created_at": {
+    "$date": "2024-07-19T12:42:59.170Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-19T12:54:38.728Z"
+  }
+}]

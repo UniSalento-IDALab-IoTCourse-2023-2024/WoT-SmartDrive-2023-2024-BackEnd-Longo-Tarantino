@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "668d0162fbcd4caef1890494"
+  },
+  "name": "lancia delta",
+  "longitude": 18.0525707,
+  "latitude": 40.2573476,
+  "status": 2,
+  "created_at": {
+    "$date": "2024-07-09T11:22:42.457Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-09T16:46:52.354Z"
+  },
+  "style_average": 1
+},
+{
+  "_id": {
+    "$oid": "668d447537d1ec46ae92e067"
+  },
+  "name": "ferrari",
+  "longitude": 18.052929,
+  "latitude": 40.2571858,
+  "status": 1,
+  "created_at": {
+    "$date": "2024-07-09T16:08:53.787Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-09T17:03:53.306Z"
+  }
+}]

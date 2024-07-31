@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "669a3484849155b60fa0b492"
+  },
+  "name": "Priamo",
+  "surname": "Tarantino",
+  "email": "priamotarantino@gmail.com",
+  "password": "6258a5e0eb772911d4f92be5b5db0e14511edbe01d1d0ddd1d5a2cb9db9a56ba",
+  "device_id": "f7e9ff8d-b6a1-4c16-bb76-7bfb90d0e9b5",
+  "created_at": {
+    "$date": "2024-07-19T11:40:20.884Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-19T11:40:20.884Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "669a356a849155b60fa0b494"
+  },
+  "name": "Michele",
+  "surname": "Giordano",
+  "email": "michelegiordano@gmail.com",
+  "password": "6258a5e0eb772911d4f92be5b5db0e14511edbe01d1d0ddd1d5a2cb9db9a56ba",
+  "device_id": "03906348-db7a-43b1-a8e7-cb805c66ad19",
+  "created_at": {
+    "$date": "2024-07-19T11:44:10.375Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-19T11:44:10.375Z"
+  }
+}]
