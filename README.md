@@ -12,8 +12,8 @@ Assicurati di avere installato sul tuo sistema:
 
 ### Passo 1: Clona il Repository
 ```bash
-git clone https://github.com/MarcoHijacker/SmartDrive
-cd SmartDrive
+git clone https://github.com/UniSalento-IDALab-IoTCourse-2023-2024/WoT-SmartDrive-2023-2024-BackEnd-Longo-Tarantino
+cd WoT-SmartDrive-2023-2024-BackEnd-Longo-Tarantino
 ```
 
 ### Passo 2: Installa le Dipendenze del Backend
@@ -50,7 +50,7 @@ python Server.py
 **Nota:** La password per tutti gli utenti nella collezione `SmartDrive.user_final.json` è `prova`.
 
 ## Utilizzo
-Una volta che i servizi back-end sono in esecuzione, puoi interagire con le API come definito nella documentazione inclusa nella repository. Utilizza strumenti come Postman per testare gli endpoint e verificare la funzionalità. I servizi attivi consentono un corretto funzionamento anche del front-end (`SmartDrive-Panel`).
+Una volta che i servizi back-end sono in esecuzione, puoi interagire con le API come definito nella documentazione inclusa nella repository. Utilizza strumenti come Postman per testare gli endpoint e verificare la funzionalità. I servizi attivi consentono un corretto funzionamento anche del front-end (`WoT-SmartDrive-2023-2024-FrontEnd-Longo-Tarantino`).
 
 ## Contributi
 Sentiti libero di contribuire a questo progetto segnalando problemi o proponendo fix e/o add-on. Per modifiche importanti, crea un ticket per discutere cosa vorresti cambiare.
